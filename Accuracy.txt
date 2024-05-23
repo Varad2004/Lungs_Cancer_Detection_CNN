@@ -1,0 +1,9 @@
+CT lung cancer prediction using cnn
+
+Algorithm / Model Used: CNN model architecture
+
+validation accuracy of 99% and training accuracy of 99%.
+
+
+
+
